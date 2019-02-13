@@ -1,9 +1,6 @@
 //private 
 import VendingMachine from "../models/vendingMachine.js";
 
-
-
-
 let vm = new VendingMachine()
 
 
@@ -11,6 +8,6 @@ let vm = new VendingMachine()
 
 export default class VendrService {
 
-   VendingMachine
+
 
 }
