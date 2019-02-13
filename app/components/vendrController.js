@@ -15,6 +15,6 @@ export default class VendrController {
    charge(amount) {
       console.log(amount)
 
-      vendrService.charge(amount)
+      vendrService.charge()
    }
 }
